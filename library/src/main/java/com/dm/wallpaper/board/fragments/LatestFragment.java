@@ -136,7 +136,7 @@ public class LatestFragment extends Fragment {
         mAdapter = new LatestAdapter(getActivity(), mWallpapers);
         //LatestAdapter adapter  = new LatestAdapter(getActivity(), mWallpapers);
 
-/*
+///*
         adapterWrapper = AdmobExpressRecyclerAdapterWrapper.builder(getActivity())
                 .setLimitOfAds(1)
                 .setFirstAdIndex(5)
@@ -178,9 +178,9 @@ public class LatestFragment extends Fragment {
                 .build();
 
         mRecyclerView.setAdapter(adapterWrapper);
-        */
+        //*/
 
-        mRecyclerView.setAdapter(mAdapter);
+        //mRecyclerView.setAdapter(mAdapter);
 
 
 
@@ -323,7 +323,7 @@ public class LatestFragment extends Fragment {
                         mAdapter.setWallpapers(mWallpapers);
                     } else {
                         mAdapter = new LatestAdapter(getActivity(), mWallpapers);
-/*
+///*
                         adapterWrapper = AdmobExpressRecyclerAdapterWrapper.builder(getActivity())
                                 .setLimitOfAds(1)
                                 .setFirstAdIndex(5)
@@ -365,9 +365,9 @@ public class LatestFragment extends Fragment {
                                 .build();
 
                         mRecyclerView.setAdapter(adapterWrapper);
-                        */
+                       // */
 
-                         mRecyclerView.setAdapter(mAdapter);
+                        // mRecyclerView.setAdapter(mAdapter);
 
 
                     }
