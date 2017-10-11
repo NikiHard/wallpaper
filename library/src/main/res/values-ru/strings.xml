@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crash_report_message">К сожалению в приложении %s произошла ошибка. Выберите отправку отчета ниже, чтобы помочь разработчику исправить проблему.</string>
+    <string name="license_check_failed">Проверка лицензии не удалась, вы загрузили это приложение не из Google Play. Вы не сможете использовать приложение.</string>
+    <string name="license_check_retry">Не удалось проверить лицензию, повторите попытку через несколько минут</string>
+    <!--<string name="muzei_art_source_desc">Описание вашего источника</string>
+    <string name="muzei_art_source_name">Имя вашего источника</string>-->
+    <string name="navigation_view_header_title"></string>
+    <string name="tap_intro_wallpaper_preview_apply_desc">Нажмите здесь, чтобы установить обои в качестве фона главного экрана</string>
+    <string name="tap_intro_wallpaper_preview_full">Обои с оригинальным размером</string>
+    <string name="tap_intro_wallpaper_preview_full_desc">Нажмите здесь, чтобы просмотреть обои в оригинальном размере</string>
+    <string name="tap_intro_wallpaper_preview_settings_desc">Нажмите здесь, чтобы открыть настройки обоев. Разрешить установку обоев в качестве фона блокировки экрана в Android Nougat или включить обрезку обоев.</string>
+    <string name="wallpaper_already_downloaded">Обои уже загружены</string>
+    <string name="wallpaper_preview_full">Предварительный просмотр обоев с оригинальным размером</string>
+    <string name="wallpaper_property_author">Автор: %s</string>
+    <string name="wallpaper_property_category">Категория</string>
+    <string name="wallpaper_property_color">Цвета: %s</string>
+    <string name="wallpaper_property_dimensions">Разрешение: %s</string>
+    <string name="wallpaper_property_format">Формат: %s</string>
+    <string name="wallpaper_property_name">Имя: %s</string>
+    <string name="wallpaper_property_palette">Цветовая палитра</string>
+    <string name="wallpaper_property_size">Размер: %s</string>
+    <string name="wallpaper_save_to_device">Сохранить обои</string>
+    <string name="wallpaper_tooltip_dont_show">Не показывать снова</string>
+    <string name="wallpaper_tooltip_preview">Вы в настоящее время просматриваете обои с уменьшиным разрешением, они могут выглядеть размытыми и неровными.</string>
+    <string name="wallpaper_tooltip_preview_icon_tap">Нажмите этот значок, чтобы просмотреть обои с оригинальным разрешением</string>
+    <string name="wallpapers_loader_failed">Не удалось проверить новые обои =(</string>
+</resources>
